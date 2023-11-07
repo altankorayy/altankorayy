@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Altan Koray Benli</h1>
 
-selammm
+Student at Kültür University, majoring in Mathematics and Computer Science. Currently, I am focusing on iOS development and constantly striving to enhance my skills. I have various projects and have a strong passion for learning, particularly in the realm of new technologies.
+Coding is my passion. I continuously explore new ideas to create creative and functional mobile applications.
 
 - 📫 How to reach me **altankoraybenli@gmail.com**
 
