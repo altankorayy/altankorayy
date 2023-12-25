@@ -1,6 +1,6 @@
-# Hi ![Wave GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Altan Koray Benli
+# Hi ![Wave GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there!
 
-I am an iOS Developer and a student at Kültür University, majoring in Mathematics and Computer Science. Currently, I am focusing on iOS development and constantly striving to enhance my skills. I have various projects and a strong passion for learning, particularly in the realm of new technologies. Coding is my passion, and I continuously explore new ideas to create creative and functional mobile applications.
+My name is Altan Koray Benli. I am an iOS Developer and a student at Kültür University, majoring in Mathematics and Computer Science. Currently, I am focusing on iOS development and constantly striving to enhance my skills. I have various projects and a strong passion for learning, particularly in the realm of new technologies. Coding is my passion, and I continuously explore new ideas to create creative and functional mobile applications.
 
 * 🌍 I'm based in Istanbul
 * ✉️ You can contact me at [altankoraybenli@gmail.com](mailto:altankoraybenli@gmail.com)
@@ -8,17 +8,16 @@ I am an iOS Developer and a student at Kültür University, majoring in Mathemat
 ## Skills
 
 <p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
   </a>
 </p>
-
 
 ## Socials
 
