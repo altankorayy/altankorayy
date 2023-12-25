@@ -35,6 +35,6 @@ I am an iOS Developer and a student at Kültür University, majoring in Mathemat
 
   </a>
   <a href="https://www.buymeacoffee.com/altankoray" target="_blank" rel="noreferrer">
-    <img src="https://github.com/altankorayy/altankorayy/assets/67483357/33d81b9a-6f76-49bd-9924-809ee5bd90d0" alt="BuyMeCoffee" width="40" height="40"/>
+    <img width="545" alt="yellow-button" src="https://github.com/altankorayy/altankorayy/assets/67483357/e0971e21-a499-448e-8b6b-81a7fede2e90">
   </a>
 
