@@ -31,7 +31,7 @@ I am an iOS Developer and a student at Kültür University, majoring in Mathemat
   </a>
 </p>
 
-## Support Me
+## 💖 Support Me
 
   </a>
   <a href="https://www.buymeacoffee.com/altankoray" target="_blank" rel="noreferrer">
