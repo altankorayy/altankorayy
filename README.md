@@ -8,13 +8,13 @@ My name is Altan Koray Benli. I am an iOS Developer and a student at Kültür Un
 ## Skills
 
 <p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="border-bottom: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="border-bottom: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="border-bottom: none;">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
   </a>
 </p>
