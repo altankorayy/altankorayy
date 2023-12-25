@@ -34,8 +34,10 @@ I am an iOS Developer and a student at Kültür University, majoring in Mathemat
 ## Support Me
 
 <ul style="list-style-type: none; margin: 0;">
-    <a href="https://www.buymeacoffee.com/altankoray">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-    </a>
-  </li>
+    <li>
+        <a href="https://www.buymeacoffee.com/altankoray">
+            <img src="https://github.com/altankorayy/altankorayy/assets/67483357/ddc672c3-b579-4852-b936-56ca77dfff03" width="150"/>
+        </a>
+    </li>
 </ul>
+
