@@ -8,16 +8,23 @@ My name is Altan Koray Benli. I am an iOS Developer and a student at Kültür Un
 ## Skills
 
 <p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="border-bottom: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <span style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
+    </span>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="border-bottom: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <span style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+    </span>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="border-bottom: none;">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <span style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
+    </span>
   </a>
 </p>
+
 
 ## Socials
 
