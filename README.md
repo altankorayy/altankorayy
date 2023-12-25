@@ -20,7 +20,7 @@ My name is Altan Koray Benli. I am an iOS Developer and a student at Kültür Un
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <span style="text-decoration: none;">
-      <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="50" height="50" alt="Xcode" />
+      <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="45" height="45" alt="Xcode" />
     </span>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
